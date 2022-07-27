@@ -2,3 +2,6 @@
 
 Description:
 This is my first HTML project with very minimal use of CSS.
+
+Go to preview:
+https://taupe-kheer-713d40.netlify.app/
